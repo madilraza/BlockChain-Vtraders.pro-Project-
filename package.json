@@ -1,0 +1,11 @@
+{
+  "name": "vtraders.pro",
+  "version": "1.0.0",
+  "description": "Vtraders.pro firebase based fully fuctional blockchain application built in node js and react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
